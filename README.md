@@ -201,11 +201,3 @@ Each candidate is scored using a weighted blend of five signals:
 Creators below 0.40 cosine similarity are filtered before scoring (semantic floor).
 
 ---
-
-## Deliverables
-
-- [x] `README.md` — this file
-- [x] DB schema + ingest instructions — see sections 3 and 4 above
-- [x] `src/searchCreators.ts` — hybrid search implementation
-- [x] `output.json` — top 10 results for `brand_smart_home` profile
-- [ ] Loom walkthrough (2 minutes)
