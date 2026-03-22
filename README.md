@@ -1,4 +1,4 @@
-# RoC Hackathon — Semantic Creator Search Engine
+# RoC Hackathon : Semantic Creator Search Engine
 
 A hybrid search engine that ranks TikTok Shop creators by both semantic relevance and commerce performance. Built with TypeScript, pgvector, and OpenAI embeddings.
 
@@ -58,7 +58,7 @@ DATABASE_URL=postgresql://user:password@host:5432/dbname
 3. Copy your connection string from **Project Settings → Database → Connection string (URI)**
 4. Paste it into `DATABASE_URL` in your `.env`
 
-> The ingest script will automatically create the `creators` table and IVFFlat index on first run — no manual schema setup needed.
+> The ingest script will automatically create the `creators` table and IVFFlat index on first run - no manual schema setup needed.
 
 ### Option B — Local Docker
 
