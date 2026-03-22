@@ -1,0 +1,19 @@
+{
+  "name": "roc-hackathon",
+  "version": "1.0.0",
+  "scripts": {
+    "ingest": "npx ts-node src/ingest.ts",
+    "demo":   "npx ts-node src/demo.ts"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "pg": "^8.11.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/pg": "^8.10.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}

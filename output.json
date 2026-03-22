@@ -1,0 +1,287 @@
+[
+  {
+    "username": "small_space_living_lee",
+    "bio": "Maximizing tiny apartments and studio spaces. Clever storage solutions, multifunctional furniture, and smart layouts.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 90.2,
+    "metrics": {
+      "follower_count": "1854255",
+      "total_gmv_30d": 31445,
+      "avg_views_30d": "321751",
+      "engagement_rate": 0.07,
+      "gpm": 40,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9247,
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.5096,
+      "projected_score": 90.2,
+      "final_score": 0.5963
+    }
+  },
+  {
+    "username": "home_office_setup_pam",
+    "bio": "Ergonomic home office design, productivity setups, and desk organization for remote workers who want to level up.",
+    "content_style_tags": [
+      "Home",
+      "Food & Beverage"
+    ],
+    "projected_score": 83.86,
+    "metrics": {
+      "follower_count": "1777068",
+      "total_gmv_30d": 45459,
+      "avg_views_30d": "1198299",
+      "engagement_rate": 0.05,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6805,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4327,
+      "projected_score": 83.86,
+      "final_score": 0.5612
+    }
+  },
+  {
+    "username": "mid_century_milo",
+    "bio": "Mid-century modern interior design, vintage furniture hunting, and creating timeless spaces with retro flair.",
+    "content_style_tags": [
+      "Home",
+      "Tools & Hardware"
+    ],
+    "projected_score": 82.97,
+    "metrics": {
+      "follower_count": "1707456",
+      "total_gmv_30d": 23644,
+      "avg_views_30d": "855938",
+      "engagement_rate": 0.09,
+      "gpm": 23,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7668,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4321,
+      "projected_score": 82.97,
+      "final_score": 0.5072
+    }
+  },
+  {
+    "username": "home_gym_builds",
+    "bio": "Budget home gym setup guides, equipment reviews, and space-saving fitness solutions for apartment workouts.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 92.59,
+    "metrics": {
+      "follower_count": "1270148",
+      "total_gmv_30d": 122934,
+      "avg_views_30d": "1913655",
+      "engagement_rate": 0.12,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6810,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4232,
+      "projected_score": 92.59,
+      "final_score": 0.4529
+    }
+  },
+  {
+    "username": "cozy_home_eleanor",
+    "bio": "Cozy home decor and living room inspo. I help you make any space feel warm, lived-in, and beautiful.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 72,
+    "metrics": {
+      "follower_count": "87000",
+      "total_gmv_30d": 12000,
+      "avg_views_30d": "195000",
+      "engagement_rate": 0.11,
+      "gpm": 6.1,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6900,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.421,
+      "projected_score": 72,
+      "final_score": 0.3584
+    }
+  },
+  {
+    "username": "petite_fashion_ivy",
+    "bio": "Fashion advice for petite women. Proportions, hem alterations, and brands that cater to shorter frames.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 78.54,
+    "metrics": {
+      "follower_count": "143410",
+      "total_gmv_30d": 22038,
+      "avg_views_30d": "1498510",
+      "engagement_rate": 0.01,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8552,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4013,
+      "projected_score": 78.54,
+      "final_score": 0.297
+    }
+  },
+  {
+    "username": "budget_phones_sal",
+    "bio": "Hidden gem budget smartphones under two hundred dollars. Premium features without the premium price tags.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 64.45,
+    "metrics": {
+      "follower_count": "772286",
+      "total_gmv_30d": 3094,
+      "avg_views_30d": "1514783",
+      "engagement_rate": 0.09,
+      "gpm": 35,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8830,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4038,
+      "projected_score": 64.45,
+      "final_score": 0.2489
+    }
+  },
+  {
+    "username": "diy_furniture_flip_jo",
+    "bio": "Upcycling thrifted furniture with paint, new hardware, and creative techniques. Sustainable home makeovers on a budget.",
+    "content_style_tags": [
+      "Home",
+      "Tools & Hardware"
+    ],
+    "projected_score": 60.66,
+    "metrics": {
+      "follower_count": "629580",
+      "total_gmv_30d": 2076,
+      "avg_views_30d": "1436898",
+      "engagement_rate": 0.11,
+      "gpm": 15,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7456,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4129,
+      "projected_score": 60.66,
+      "final_score": 0.1874
+    }
+  },
+  {
+    "username": "renter_decor_tips_kay",
+    "bio": "Apartment decor hacks for renters who cannot damage walls. Removable solutions and renter-friendly interior design.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 66.06,
+    "metrics": {
+      "follower_count": "1285462",
+      "total_gmv_30d": 556,
+      "avg_views_30d": "588341",
+      "engagement_rate": 0.07,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8081,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4894,
+      "projected_score": 66.06,
+      "final_score": 0.1534
+    }
+  },
+  {
+    "username": "smart_home_build_eli",
+    "bio": "Smart home automation guides using Google Home, Alexa, and HomeKit. Building the connected home step by step.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 63.13,
+    "metrics": {
+      "follower_count": "1344811",
+      "total_gmv_30d": 0,
+      "avg_views_30d": "920869",
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9145,
+        "age_ranges": [
+          "25-34",
+          "45-54",
+          "55+"
+        ]
+      }
+    },
+    "scores": {
+      "semantic_score": 0.4135,
+      "projected_score": 63.13,
+      "final_score": 0.0615
+    }
+  }
+]

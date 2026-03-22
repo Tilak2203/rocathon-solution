@@ -1,0 +1,4673 @@
+[
+  {
+    "username": "hiker_adventures_zach",
+    "bio": "I document extreme hikes, trail runs, and wild camping expeditions. Pure outdoor adrenaline.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 42000,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 85000,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8200,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "lifestyle_creator_bri",
+    "bio": "Casual lifestyle content for everyday moments. I share what is real, not what is perfect.",
+    "content_style_tags": [
+      "Health",
+      "Food & Beverage"
+    ],
+    "projected_score": 82,
+    "metrics": {
+      "follower_count": 310000,
+      "total_gmv_30d": 48000,
+      "avg_views_30d": 620000,
+      "engagement_rate": 0.07,
+      "gpm": 12.5,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7300,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "summer_fashion_maya",
+    "bio": "Summer fashion hauls and college girl outfit inspo. All about cute, affordable looks.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 79,
+    "metrics": {
+      "follower_count": 228000,
+      "total_gmv_30d": 35000,
+      "avg_views_30d": 480000,
+      "engagement_rate": 0.09,
+      "gpm": 9.8,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7800,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "streetwear_king_jose",
+    "bio": "Trendy fashion and streetwear drops. Hype culture, sneakers, and premium fits for real ones.",
+    "content_style_tags": [
+      "Fashion",
+      "Fashion (Men's)"
+    ],
+    "projected_score": 85,
+    "metrics": {
+      "follower_count": 415000,
+      "total_gmv_30d": 60000,
+      "avg_views_30d": 750000,
+      "engagement_rate": 0.06,
+      "gpm": 14.2,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8100,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "cozy_home_eleanor",
+    "bio": "Cozy home decor and living room inspo. I help you make any space feel warm, lived-in, and beautiful.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 72,
+    "metrics": {
+      "follower_count": 87000,
+      "total_gmv_30d": 12000,
+      "avg_views_30d": 195000,
+      "engagement_rate": 0.11,
+      "gpm": 6.1,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6900,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "wellness_coach_tara",
+    "bio": "Certified wellness coach sharing daily habits, mindfulness, and mental health strategies for a balanced life.",
+    "content_style_tags": [
+      "Health",
+      "Food & Beverage"
+    ],
+    "projected_score": 63.74,
+    "metrics": {
+      "follower_count": 230234,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1641512,
+      "engagement_rate": 0.02,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7897,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "nutrition_tips_alex",
+    "bio": "Plant-based nutrition advice and meal prep guides. Making healthy eating simple and sustainable for busy people.",
+    "content_style_tags": [
+      "Health"
+    ],
+    "projected_score": 64.17,
+    "metrics": {
+      "follower_count": 464273,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 797237,
+      "engagement_rate": 0.13,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8437,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fit_mom_danielle",
+    "bio": "Balancing fitness and motherhood. Quick home workouts, healthy recipes, and self-care routines for moms.",
+    "content_style_tags": [
+      "Health",
+      "Beauty"
+    ],
+    "projected_score": 63.56,
+    "metrics": {
+      "follower_count": 1690269,
+      "total_gmv_30d": 1322,
+      "avg_views_30d": 815222,
+      "engagement_rate": 0.01,
+      "gpm": 33,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7376,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "gut_health_guru_sam",
+    "bio": "Deep dives into gut health, probiotics, and anti-inflammatory diets. Science-backed wellness content you can trust.",
+    "content_style_tags": [
+      "Health"
+    ],
+    "projected_score": 84.48,
+    "metrics": {
+      "follower_count": 1066761,
+      "total_gmv_30d": 32583,
+      "avg_views_30d": 108326,
+      "engagement_rate": 0.08,
+      "gpm": 8,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8138,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "sober_curious_mia",
+    "bio": "Exploring alcohol-free living, mindful drinking, and healthy social habits. Wellness without the hangover.",
+    "content_style_tags": [
+      "Health"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1973290,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 205332,
+      "engagement_rate": 0.01,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5981,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "sleep_hacks_jordan",
+    "bio": "Sleep optimization coach sharing routines, supplements, and science-backed tips to improve your rest and energy.",
+    "content_style_tags": [
+      "Health"
+    ],
+    "projected_score": 62.44,
+    "metrics": {
+      "follower_count": 1926037,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 566996,
+      "engagement_rate": 0.07,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8467,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "mental_health_mike",
+    "bio": "Open conversations about anxiety, therapy, and self-improvement. Destigmatizing mental health one video at a time.",
+    "content_style_tags": [
+      "Health"
+    ],
+    "projected_score": 61.94,
+    "metrics": {
+      "follower_count": 789218,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1174175,
+      "engagement_rate": 0.03,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5494,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "yoga_flow_priya",
+    "bio": "Daily yoga flows for all levels. Flexibility, breathwork, and mindful movement to energize your morning.",
+    "content_style_tags": [
+      "Health",
+      "Beauty"
+    ],
+    "projected_score": 73.31,
+    "metrics": {
+      "follower_count": 1408721,
+      "total_gmv_30d": 11379,
+      "avg_views_30d": 899694,
+      "engagement_rate": 0.05,
+      "gpm": 16,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8827,
+        "age_ranges": [
+          "18-24",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "immunity_boost_kelly",
+    "bio": "Natural remedies and supplements for immune support. Functional medicine meets everyday wellness routines.",
+    "content_style_tags": [
+      "Health",
+      "Sports & Outdoors"
+    ],
+    "projected_score": 74.68,
+    "metrics": {
+      "follower_count": 1166673,
+      "total_gmv_30d": 10185,
+      "avg_views_30d": 1213146,
+      "engagement_rate": 0.09,
+      "gpm": 5,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8730,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "holistic_liv_grace",
+    "bio": "Holistic health advocate covering herbal medicine, detox routines, and clean beauty for whole-body wellness.",
+    "content_style_tags": [
+      "Health"
+    ],
+    "projected_score": 77.34,
+    "metrics": {
+      "follower_count": 208917,
+      "total_gmv_30d": 20521,
+      "avg_views_30d": 1110408,
+      "engagement_rate": 0.1,
+      "gpm": 37,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8917,
+        "age_ranges": [
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "run_daily_derek",
+    "bio": "Running coach documenting marathon training, injury prevention, and the mental side of endurance sports.",
+    "content_style_tags": [
+      "Health",
+      "Beauty"
+    ],
+    "projected_score": 81.04,
+    "metrics": {
+      "follower_count": 540527,
+      "total_gmv_30d": 57911,
+      "avg_views_30d": 210965,
+      "engagement_rate": 0.04,
+      "gpm": 27,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5160,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "stress_less_nina",
+    "bio": "Therapist-turned-creator sharing practical stress management tools, breathwork, and emotional regulation tips.",
+    "content_style_tags": [
+      "Health",
+      "Sports & Outdoors"
+    ],
+    "projected_score": 62.67,
+    "metrics": {
+      "follower_count": 289395,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 230955,
+      "engagement_rate": 0.1,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8738,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "biohack_labs_rex",
+    "bio": "Performance biohacker testing fasting protocols, cold exposure, and nootropics. Data-driven health optimization.",
+    "content_style_tags": [
+      "Health",
+      "Sports & Outdoors"
+    ],
+    "projected_score": 74.47,
+    "metrics": {
+      "follower_count": 487792,
+      "total_gmv_30d": 15567,
+      "avg_views_30d": 202932,
+      "engagement_rate": 0.08,
+      "gpm": 28,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7649,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "budget_eats_marcus",
+    "bio": "Gourmet meals on a student budget. Recipes under ten dollars that actually taste incredible.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 64,
+    "metrics": {
+      "follower_count": 162844,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1130870,
+      "engagement_rate": 0.14,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6590,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bake_with_sophie",
+    "bio": "Home baker sharing foolproof cakes, cookies, and bread recipes. Cozy kitchen vibes every weekend.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 63.59,
+    "metrics": {
+      "follower_count": 424066,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 832906,
+      "engagement_rate": 0.01,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6807,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "spicy_kitchen_lena",
+    "bio": "Southeast Asian home cooking, spicy noodle challenges, and street food recreations from around the world.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 66.49,
+    "metrics": {
+      "follower_count": 135572,
+      "total_gmv_30d": 1021,
+      "avg_views_30d": 784571,
+      "engagement_rate": 0.03,
+      "gpm": 35,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5911,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "cocktail_craft_omar",
+    "bio": "Mixologist creating craft cocktails and mocktails at home. Fancy drinks without the bar tab.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 79.21,
+    "metrics": {
+      "follower_count": 1708158,
+      "total_gmv_30d": 13269,
+      "avg_views_30d": 1407760,
+      "engagement_rate": 0.12,
+      "gpm": 34,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6198,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "vegan_bites_zara",
+    "bio": "Proving vegan food is anything but boring. Colorful plant-based recipes that omnivores secretly love.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 63.23,
+    "metrics": {
+      "follower_count": 939535,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1597650,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7024,
+        "age_ranges": [
+          "18-24",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bbq_king_travis",
+    "bio": "Backyard BBQ master sharing smoking techniques, rub recipes, and everything about low-and-slow cooking.",
+    "content_style_tags": [
+      "Food & Beverage",
+      "Baby & Maternity"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 494062,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1041209,
+      "engagement_rate": 0.15,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9232,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "meal_prep_queen_yuki",
+    "bio": "Sunday meal prep specialist helping busy families eat healthy all week with minimal effort and cleanup.",
+    "content_style_tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "projected_score": 61.77,
+    "metrics": {
+      "follower_count": 229472,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1799766,
+      "engagement_rate": 0.15,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7326,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "coffee_diaries_hugo",
+    "bio": "Specialty coffee culture, pour-over techniques, and cafe reviews. Your morning ritual just got better.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 642330,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1564446,
+      "engagement_rate": 0.09,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7750,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fast_food_hacks_belle",
+    "bio": "Recreating fast food favorites at home with better ingredients. All the flavor, none of the guilt.",
+    "content_style_tags": [
+      "Food & Beverage",
+      "Baby & Maternity"
+    ],
+    "projected_score": 66.37,
+    "metrics": {
+      "follower_count": 22865,
+      "total_gmv_30d": 3115,
+      "avg_views_30d": 1685897,
+      "engagement_rate": 0.08,
+      "gpm": 18,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7230,
+        "age_ranges": [
+          "25-34",
+          "35-44",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bread_lab_victor",
+    "bio": "Sourdough obsessive sharing starter science, fermentation tips, and artisan loaf techniques for home bakers.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 61.72,
+    "metrics": {
+      "follower_count": 1975602,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 170693,
+      "engagement_rate": 0.02,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5370,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "taco_tuesday_rosa",
+    "bio": "Mexican home cooking and taco culture. Authentic recipes passed down from grandma with a modern twist.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 75.75,
+    "metrics": {
+      "follower_count": 1865914,
+      "total_gmv_30d": 11145,
+      "avg_views_30d": 825376,
+      "engagement_rate": 0.04,
+      "gpm": 10,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8384,
+        "age_ranges": [
+          "25-34",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "ferment_it_all_chen",
+    "bio": "Fermentation enthusiast making kimchi, kombucha, kefir, and pickles. Gut-friendly foods from scratch.",
+    "content_style_tags": [
+      "Food & Beverage"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1466899,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1343427,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6592,
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "wine_notes_isabelle",
+    "bio": "Wine educator demystifying varietals, pairings, and natural wines. Sip smarter without the snobbery.",
+    "content_style_tags": [
+      "Food & Beverage",
+      "Baby & Maternity"
+    ],
+    "projected_score": 62.12,
+    "metrics": {
+      "follower_count": 1012742,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1304714,
+      "engagement_rate": 0.05,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7300,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "glam_by_destiny",
+    "bio": "Full glam makeup tutorials and product reviews. From everyday looks to editorial masterpieces for all skin tones.",
+    "content_style_tags": [
+      "Beauty",
+      "Health"
+    ],
+    "projected_score": 71.43,
+    "metrics": {
+      "follower_count": 1501047,
+      "total_gmv_30d": 17754,
+      "avg_views_30d": 469718,
+      "engagement_rate": 0.07,
+      "gpm": 44,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6120,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "skincare_first_anya",
+    "bio": "Dermatologist-approved skincare routines, ingredient deep-dives, and honest product reviews for glowing skin.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 61.21,
+    "metrics": {
+      "follower_count": 713625,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 269350,
+      "engagement_rate": 0.07,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9316,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "natural_beauty_jade",
+    "bio": "Clean beauty advocate sharing non-toxic skincare, DIY masks, and sustainable cosmetics for conscious consumers.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 91.36,
+    "metrics": {
+      "follower_count": 1494742,
+      "total_gmv_30d": 54627,
+      "avg_views_30d": 1564855,
+      "engagement_rate": 0.12,
+      "gpm": 36,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7884,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "contour_queen_paris",
+    "bio": "Makeup artist teaching sculpting, contouring, and cut-crease techniques for bold, editorial beauty looks.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 71.08,
+    "metrics": {
+      "follower_count": 193635,
+      "total_gmv_30d": 13979,
+      "avg_views_30d": 192531,
+      "engagement_rate": 0.11,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9298,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "glow_up_journey_mei",
+    "bio": "Documenting my skincare transformation. Before and afters, dermatology visits, and budget-friendly product finds.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 72.98,
+    "metrics": {
+      "follower_count": 1107506,
+      "total_gmv_30d": 19666,
+      "avg_views_30d": 1112165,
+      "engagement_rate": 0.05,
+      "gpm": 46,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9127,
+        "age_ranges": [
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bold_brows_tanya",
+    "bio": "Eyebrow shaping, lamination, and microblading education. Because great brows change everything about your face.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 62.44,
+    "metrics": {
+      "follower_count": 1929375,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 178086,
+      "engagement_rate": 0.15,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6220,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "nail_art_studio_cleo",
+    "bio": "Intricate nail art tutorials, gel techniques, and nail care tips. Your nails are a canvas worth caring about.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 60.37,
+    "metrics": {
+      "follower_count": 987565,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1775311,
+      "engagement_rate": 0.04,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8572,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fragrance_notes_leo",
+    "bio": "Perfume reviews, layering tips, and niche fragrance exploration. Finding your signature scent for every season.",
+    "content_style_tags": [
+      "Beauty",
+      "Fashion"
+    ],
+    "projected_score": 76.75,
+    "metrics": {
+      "follower_count": 558417,
+      "total_gmv_30d": 12142,
+      "avg_views_30d": 1579670,
+      "engagement_rate": 0.15,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6523,
+        "age_ranges": [
+          "25-34",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "hair_care_clinic_nia",
+    "bio": "Natural hair care routines, protective styling, and product recommendations for curly and coily hair textures.",
+    "content_style_tags": [
+      "Beauty",
+      "Health"
+    ],
+    "projected_score": 62.34,
+    "metrics": {
+      "follower_count": 1669261,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 949890,
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7966,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "drugstore_beauty_hana",
+    "bio": "Proving luxury looks dont require luxury prices. Drugstore makeup dupes and budget beauty finds that work.",
+    "content_style_tags": [
+      "Beauty",
+      "Health"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1828830,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1276363,
+      "engagement_rate": 0.05,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7876,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "mens_grooming_kai",
+    "bio": "Skincare and grooming routines tailored for men. Simple, effective steps for better skin and confidence.",
+    "content_style_tags": [
+      "Beauty",
+      "Fashion"
+    ],
+    "projected_score": 67.27,
+    "metrics": {
+      "follower_count": 1641478,
+      "total_gmv_30d": 1371,
+      "avg_views_30d": 861329,
+      "engagement_rate": 0.06,
+      "gpm": 18,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6397,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "vintage_glam_rita",
+    "bio": "Old Hollywood and vintage-inspired makeup looks. Retro beauty tutorials with a modern accessible twist.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 80.41,
+    "metrics": {
+      "follower_count": 764168,
+      "total_gmv_30d": 8795,
+      "avg_views_30d": 994644,
+      "engagement_rate": 0.05,
+      "gpm": 20,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7687,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "spf_every_day_quinn",
+    "bio": "Sun protection evangelist and skincare minimalist. Teaching SPF culture, morning routines, and anti-aging basics.",
+    "content_style_tags": [
+      "Beauty"
+    ],
+    "projected_score": 76.79,
+    "metrics": {
+      "follower_count": 295732,
+      "total_gmv_30d": 13281,
+      "avg_views_30d": 714459,
+      "engagement_rate": 0.02,
+      "gpm": 29,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8701,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "lash_lab_serena",
+    "bio": "Lash extension reviews, DIY lash tutorials, and mascara comparisons. The ultimate guide to fuller lashes.",
+    "content_style_tags": [
+      "Beauty",
+      "Health"
+    ],
+    "projected_score": 69.86,
+    "metrics": {
+      "follower_count": 1829863,
+      "total_gmv_30d": 4853,
+      "avg_views_30d": 1981223,
+      "engagement_rate": 0.05,
+      "gpm": 36,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6332,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "thrift_flip_dani",
+    "bio": "Thrift store fashion finds and upcycling projects. Sustainable style on a secondhand budget for everyday wear.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 90.68,
+    "metrics": {
+      "follower_count": 942783,
+      "total_gmv_30d": 45650,
+      "avg_views_30d": 1615229,
+      "engagement_rate": 0.12,
+      "gpm": 37,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5620,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "office_looks_claire",
+    "bio": "Corporate fashion made chic. Business casual outfits, capsule wardrobe builds, and desk-to-dinner transitions.",
+    "content_style_tags": [
+      "Fashion",
+      "Beauty"
+    ],
+    "projected_score": 62.46,
+    "metrics": {
+      "follower_count": 1020455,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1045068,
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9255,
+        "age_ranges": [
+          "25-34",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "boho_vibes_freya",
+    "bio": "Bohemian style, festival fashion, and free-spirited outfits. Flowy fabrics and earthy tones are my love language.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 77.08,
+    "metrics": {
+      "follower_count": 637037,
+      "total_gmv_30d": 31180,
+      "avg_views_30d": 1255807,
+      "engagement_rate": 0.11,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6476,
+        "age_ranges": [
+          "18-24",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "plus_size_glam_val",
+    "bio": "Plus size fashion content celebrating curves and style. OOTDs, brand reviews, and body-positive outfit inspiration.",
+    "content_style_tags": [
+      "Fashion",
+      "Beauty"
+    ],
+    "projected_score": 77.71,
+    "metrics": {
+      "follower_count": 1815896,
+      "total_gmv_30d": 19435,
+      "avg_views_30d": 1821345,
+      "engagement_rate": 0.13,
+      "gpm": 45,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8053,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "y2k_queen_nova",
+    "bio": "Y2K fashion revival with low-rise jeans, butterfly clips, and 2000s nostalgia. The aesthetic is back and better.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 66.71,
+    "metrics": {
+      "follower_count": 1224829,
+      "total_gmv_30d": 2807,
+      "avg_views_30d": 1790791,
+      "engagement_rate": 0.1,
+      "gpm": 27,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8548,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "minimalist_style_ren",
+    "bio": "Minimalist wardrobe philosophy. Fewer, better pieces. Capsule collections and quality-over-quantity fashion content.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 79.03,
+    "metrics": {
+      "follower_count": 1429589,
+      "total_gmv_30d": 15297,
+      "avg_views_30d": 1805485,
+      "engagement_rate": 0.13,
+      "gpm": 49,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8740,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "resort_wear_elena",
+    "bio": "Vacation and resort fashion for the travel-obsessed. Swimsuits, coverups, and chic destination outfits year-round.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 76.31,
+    "metrics": {
+      "follower_count": 1327536,
+      "total_gmv_30d": 10331,
+      "avg_views_30d": 1357627,
+      "engagement_rate": 0.04,
+      "gpm": 20,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5940,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "alt_fashion_storm",
+    "bio": "Alternative and subculture fashion: goth, punk, dark academia, and grunge aesthetics for the non-mainstream crowd.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 85.78,
+    "metrics": {
+      "follower_count": 361738,
+      "total_gmv_30d": 52370,
+      "avg_views_30d": 1563915,
+      "engagement_rate": 0.15,
+      "gpm": 15,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7266,
+        "age_ranges": [
+          "35-44",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "ootd_with_amber",
+    "bio": "Daily outfit inspiration, hauls from fast fashion and sustainable brands alike. Real wardrobe, real budget.",
+    "content_style_tags": [
+      "Fashion",
+      "Beauty"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1597420,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 670789,
+      "engagement_rate": 0.03,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5262,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bridal_style_luna",
+    "bio": "Bridal fashion content for the modern bride. Wedding dress trends, bridesmaid looks, and engagement shoot style.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 63.13,
+    "metrics": {
+      "follower_count": 1723133,
+      "total_gmv_30d": 467,
+      "avg_views_30d": 1713289,
+      "engagement_rate": 0.1,
+      "gpm": 25,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6747,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "vintage_archive_mo",
+    "bio": "Vintage fashion curation and authentication. Shopping guides for preloved luxury and rare designer archive pieces.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 89.09,
+    "metrics": {
+      "follower_count": 878540,
+      "total_gmv_30d": 127869,
+      "avg_views_30d": 64834,
+      "engagement_rate": 0.12,
+      "gpm": 15,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6791,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "petite_fashion_ivy",
+    "bio": "Fashion advice for petite women. Proportions, hem alterations, and brands that cater to shorter frames.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 78.54,
+    "metrics": {
+      "follower_count": 143410,
+      "total_gmv_30d": 22038,
+      "avg_views_30d": 1498510,
+      "engagement_rate": 0.01,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8552,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "classic_menswear_seb",
+    "bio": "Classic menswear and tailoring. Suit fits, dress shoes, and the art of looking sharp for any occasion.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 55303,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1472403,
+      "engagement_rate": 0.09,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7889,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "hypebeast_felix",
+    "bio": "Sneaker culture, limited drops, and hype streetwear. The grail hunt never stops for a true sneakerhead.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 63.57,
+    "metrics": {
+      "follower_count": 1844198,
+      "total_gmv_30d": 3391,
+      "avg_views_30d": 485190,
+      "engagement_rate": 0.11,
+      "gpm": 39,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5900,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "business_casual_nate",
+    "bio": "Modern professional style for young men. Smart casual outfits, blazer builds, and workwear that gets you promoted.",
+    "content_style_tags": [
+      "Fashion (Men's)",
+      "Sports & Outdoors"
+    ],
+    "projected_score": 60.79,
+    "metrics": {
+      "follower_count": 1873942,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 944628,
+      "engagement_rate": 0.13,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7008,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "dad_style_reborn_ian",
+    "bio": "Reclaiming dadcore as a legit aesthetic. Comfort-forward fashion that is still stylish for dads on the go.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 62.25,
+    "metrics": {
+      "follower_count": 186338,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 374212,
+      "engagement_rate": 0.12,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9155,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "luxury_menswear_kaz",
+    "bio": "Investment pieces, heritage brands, and quality over quantity. Building a wardrobe that lasts a lifetime.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 78.15,
+    "metrics": {
+      "follower_count": 98025,
+      "total_gmv_30d": 52175,
+      "avg_views_30d": 1510046,
+      "engagement_rate": 0.06,
+      "gpm": 14,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7919,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "athletic_fit_cole",
+    "bio": "Activewear and athleisure for men with athletic builds. Finding clothes that actually fit broad shoulders.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 63.81,
+    "metrics": {
+      "follower_count": 666475,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1694637,
+      "engagement_rate": 0.04,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7042,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "budget_menswear_tj",
+    "bio": "Looking fly without going broke. Affordable menswear hauls, thrift flips, and budget-friendly style guides.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 67.89,
+    "metrics": {
+      "follower_count": 136947,
+      "total_gmv_30d": 1357,
+      "avg_views_30d": 690111,
+      "engagement_rate": 0.14,
+      "gpm": 2,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5897,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tropical_fits_rafi",
+    "bio": "Caribbean-inspired resort wear and tropical menswear. Linen shirts, board shorts, and vacation-ready looks.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 60.62,
+    "metrics": {
+      "follower_count": 1653912,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1923729,
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9007,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "dark_academia_finn",
+    "bio": "Dark academia and prep school aesthetics for men. Tweed, turtlenecks, and intellectually-inspired outfits.",
+    "content_style_tags": [
+      "Fashion (Men's)",
+      "Sports & Outdoors"
+    ],
+    "projected_score": 67.44,
+    "metrics": {
+      "follower_count": 362655,
+      "total_gmv_30d": 1006,
+      "avg_views_30d": 77559,
+      "engagement_rate": 0.1,
+      "gpm": 12,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8673,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tall_man_fashion_eli",
+    "bio": "Fashion advice for tall men. Brands that carry extended sizes and styling tips for men over six feet.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 71.76,
+    "metrics": {
+      "follower_count": 267577,
+      "total_gmv_30d": 16485,
+      "avg_views_30d": 1779083,
+      "engagement_rate": 0.09,
+      "gpm": 12,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5598,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "vintage_menswear_hugo",
+    "bio": "Vintage and secondhand finds for men. How to shop thrift stores and style preloved pieces into modern looks.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 78.33,
+    "metrics": {
+      "follower_count": 169742,
+      "total_gmv_30d": 17378,
+      "avg_views_30d": 645532,
+      "engagement_rate": 0.08,
+      "gpm": 47,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7566,
+        "age_ranges": [
+          "35-44",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "workwear_rugged_colt",
+    "bio": "Rugged workwear aesthetics mixing functionality and style. Carhartt culture, Danner boots, and outdoor utility fashion.",
+    "content_style_tags": [
+      "Fashion (Men's)"
+    ],
+    "projected_score": 73.08,
+    "metrics": {
+      "follower_count": 142067,
+      "total_gmv_30d": 5441,
+      "avg_views_30d": 1934462,
+      "engagement_rate": 0.14,
+      "gpm": 42,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6306,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "smart_casual_joel",
+    "bio": "The art of smart casual for men. Mastering the in-between dress code with confidence and intentionality.",
+    "content_style_tags": [
+      "Fashion (Men's)",
+      "Fashion"
+    ],
+    "projected_score": 79.53,
+    "metrics": {
+      "follower_count": 1360544,
+      "total_gmv_30d": 19695,
+      "avg_views_30d": 477987,
+      "engagement_rate": 0.14,
+      "gpm": 9,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7805,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "lego_architect_ben",
+    "bio": "LEGO architecture builds, MOC instructions, and set reviews. Building impressive models one brick at a time.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 70.17,
+    "metrics": {
+      "follower_count": 343912,
+      "total_gmv_30d": 1804,
+      "avg_views_30d": 371918,
+      "engagement_rate": 0.07,
+      "gpm": 23,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6443,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "board_game_corner_sue",
+    "bio": "Board game reviews, strategy guides, and family game night recommendations. Tabletop gaming for all ages.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 63.03,
+    "metrics": {
+      "follower_count": 1793848,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 203880,
+      "engagement_rate": 0.09,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8785,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "rc_car_garage_hank",
+    "bio": "Radio-controlled cars, trucks, and drones. Racing tips, modifications, and RC hobby reviews for enthusiasts.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 62.52,
+    "metrics": {
+      "follower_count": 870656,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1563724,
+      "engagement_rate": 0.1,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6428,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "art_supplies_luna",
+    "bio": "Art supply reviews, watercolor tutorials, and creative hobby content for beginners and seasoned artists.",
+    "content_style_tags": [
+      "Toys & Hobbies",
+      "Books"
+    ],
+    "projected_score": 64.56,
+    "metrics": {
+      "follower_count": 1116942,
+      "total_gmv_30d": 1165,
+      "avg_views_30d": 778263,
+      "engagement_rate": 0.02,
+      "gpm": 2,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5677,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "model_trains_stan",
+    "bio": "Scale model trains and miniature railway layouts. The nostalgic hobby that teaches patience and precision.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 66.05,
+    "metrics": {
+      "follower_count": 1514898,
+      "total_gmv_30d": 4022,
+      "avg_views_30d": 1401673,
+      "engagement_rate": 0.14,
+      "gpm": 5,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8805,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "puzzle_addict_faye",
+    "bio": "Jigsaw puzzle reviews, completion time-lapses, and building tips. Finding zen in a thousand-piece challenge.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 69,
+    "metrics": {
+      "follower_count": 738229,
+      "total_gmv_30d": 7324,
+      "avg_views_30d": 1041567,
+      "engagement_rate": 0.12,
+      "gpm": 18,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5997,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "craft_room_heidi",
+    "bio": "Scrapbooking, paper crafting, and DIY project tutorials. Turning everyday materials into meaningful keepsakes.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 83.64,
+    "metrics": {
+      "follower_count": 1547865,
+      "total_gmv_30d": 32639,
+      "avg_views_30d": 953568,
+      "engagement_rate": 0.04,
+      "gpm": 48,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9433,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "anime_collector_ren",
+    "bio": "Anime figure collecting, unboxing, and display setups. Building the ultimate otaku collection on any budget.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 71.39,
+    "metrics": {
+      "follower_count": 715197,
+      "total_gmv_30d": 5411,
+      "avg_views_30d": 521189,
+      "engagement_rate": 0.03,
+      "gpm": 33,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6382,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "slime_world_crystal",
+    "bio": "Slime making tutorials, satisfying textures, and DIY slime shop content. ASMR-worthy craft content.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 70.22,
+    "metrics": {
+      "follower_count": 826156,
+      "total_gmv_30d": 2367,
+      "avg_views_30d": 1180342,
+      "engagement_rate": 0.09,
+      "gpm": 27,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8685,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "drone_pilot_max",
+    "bio": "FPV and cinematic drone flying, aerial photography tips, and drone legislation guides for hobbyist pilots.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 77.08,
+    "metrics": {
+      "follower_count": 1734756,
+      "total_gmv_30d": 24672,
+      "avg_views_30d": 1524235,
+      "engagement_rate": 0.05,
+      "gpm": 26,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7028,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tabletop_rpg_leo",
+    "bio": "Dungeons and Dragons campaigns, worldbuilding guides, and tabletop RPG content for dungeon masters and players.",
+    "content_style_tags": [
+      "Toys & Hobbies",
+      "Baby & Maternity"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 750620,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 583579,
+      "engagement_rate": 0.1,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7570,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "kite_flyer_grace",
+    "bio": "Kite flying, stunt kite tricks, and outdoor hobby content for families. The art of flying kites beyond the basics.",
+    "content_style_tags": [
+      "Toys & Hobbies",
+      "Books"
+    ],
+    "projected_score": 66.55,
+    "metrics": {
+      "follower_count": 374072,
+      "total_gmv_30d": 4880,
+      "avg_views_30d": 33011,
+      "engagement_rate": 0.01,
+      "gpm": 47,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5471,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "origami_master_hiro",
+    "bio": "Advanced origami folding tutorials, paper selection guides, and mathematical art for the patient creative mind.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 63.13,
+    "metrics": {
+      "follower_count": 1790373,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1480611,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5884,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "coin_collector_pete",
+    "bio": "Numismatics and coin collecting education. Spotting valuable coins, grading guides, and building a quality collection.",
+    "content_style_tags": [
+      "Toys & Hobbies"
+    ],
+    "projected_score": 63.47,
+    "metrics": {
+      "follower_count": 1931745,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1181561,
+      "engagement_rate": 0.09,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9370,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "renter_decor_tips_kay",
+    "bio": "Apartment decor hacks for renters who cannot damage walls. Removable solutions and renter-friendly interior design.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 66.06,
+    "metrics": {
+      "follower_count": 1285462,
+      "total_gmv_30d": 556,
+      "avg_views_30d": 588341,
+      "engagement_rate": 0.07,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8081,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "diy_furniture_flip_jo",
+    "bio": "Upcycling thrifted furniture with paint, new hardware, and creative techniques. Sustainable home makeovers on a budget.",
+    "content_style_tags": [
+      "Home",
+      "Tools & Hardware"
+    ],
+    "projected_score": 60.66,
+    "metrics": {
+      "follower_count": 629580,
+      "total_gmv_30d": 2076,
+      "avg_views_30d": 1436898,
+      "engagement_rate": 0.11,
+      "gpm": 15,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7456,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "plant_parent_vida",
+    "bio": "Indoor plant care, propagation guides, and urban jungle setups. Turning any apartment into a green sanctuary.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 61.22,
+    "metrics": {
+      "follower_count": 239475,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1105572,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8226,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "kitchen_organizer_jo",
+    "bio": "Kitchen organization systems, pantry makeovers, and small kitchen solutions for a functional, beautiful cooking space.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 63.26,
+    "metrics": {
+      "follower_count": 1997605,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 342051,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6451,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "mid_century_milo",
+    "bio": "Mid-century modern interior design, vintage furniture hunting, and creating timeless spaces with retro flair.",
+    "content_style_tags": [
+      "Home",
+      "Tools & Hardware"
+    ],
+    "projected_score": 82.97,
+    "metrics": {
+      "follower_count": 1707456,
+      "total_gmv_30d": 23644,
+      "avg_views_30d": 855938,
+      "engagement_rate": 0.09,
+      "gpm": 23,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7668,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "lighting_design_tess",
+    "bio": "Home lighting design tips, lamp recommendations, and how proper lighting transforms any room instantly.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 61.51,
+    "metrics": {
+      "follower_count": 1082577,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 528440,
+      "engagement_rate": 0.09,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8832,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "color_palette_home_cc",
+    "bio": "Interior color theory and paint selection guides. How to choose colors that make your space feel exactly right.",
+    "content_style_tags": [
+      "Home",
+      "Food & Beverage"
+    ],
+    "projected_score": 78.41,
+    "metrics": {
+      "follower_count": 1880744,
+      "total_gmv_30d": 6295,
+      "avg_views_30d": 1807760,
+      "engagement_rate": 0.11,
+      "gpm": 18,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9166,
+        "age_ranges": [
+          "18-24",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "small_space_living_lee",
+    "bio": "Maximizing tiny apartments and studio spaces. Clever storage solutions, multifunctional furniture, and smart layouts.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 90.2,
+    "metrics": {
+      "follower_count": 1854255,
+      "total_gmv_30d": 31445,
+      "avg_views_30d": 321751,
+      "engagement_rate": 0.07,
+      "gpm": 40,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9247,
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "candle_and_scent_ava",
+    "bio": "Home fragrance, candle making, and creating ambient spaces with scent. Transform your home into a sensory retreat.",
+    "content_style_tags": [
+      "Home",
+      "Food & Beverage"
+    ],
+    "projected_score": 61.64,
+    "metrics": {
+      "follower_count": 126014,
+      "total_gmv_30d": 2066,
+      "avg_views_30d": 78688,
+      "engagement_rate": 0.15,
+      "gpm": 3,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5829,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "farmhouse_style_kay",
+    "bio": "Farmhouse and cottagecore interior aesthetics. Shiplap, vintage finds, and rustic warmth for every room.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 212126,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1140476,
+      "engagement_rate": 0.15,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7377,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "home_office_setup_pam",
+    "bio": "Ergonomic home office design, productivity setups, and desk organization for remote workers who want to level up.",
+    "content_style_tags": [
+      "Home",
+      "Food & Beverage"
+    ],
+    "projected_score": 83.86,
+    "metrics": {
+      "follower_count": 1777068,
+      "total_gmv_30d": 45459,
+      "avg_views_30d": 1198299,
+      "engagement_rate": 0.05,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6805,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bathroom_reno_tips_sue",
+    "bio": "Bathroom renovation guides, tile trends, and budget-friendly updates that make a big impact without full gut jobs.",
+    "content_style_tags": [
+      "Home"
+    ],
+    "projected_score": 79.38,
+    "metrics": {
+      "follower_count": 1028348,
+      "total_gmv_30d": 7526,
+      "avg_views_30d": 199845,
+      "engagement_rate": 0.15,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6620,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "scandinavian_living_el",
+    "bio": "Scandinavian interior design principles, hygge philosophy, and minimalist home aesthetics for clean, calm spaces.",
+    "content_style_tags": [
+      "Home",
+      "Tools & Hardware"
+    ],
+    "projected_score": 62.58,
+    "metrics": {
+      "follower_count": 676177,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 684849,
+      "engagement_rate": 0.04,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8405,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "new_mom_diaries_lin",
+    "bio": "Honest first-time motherhood content. Sleep training, feeding challenges, and the real postpartum journey shared openly.",
+    "content_style_tags": [
+      "Baby & Maternity"
+    ],
+    "projected_score": 62.43,
+    "metrics": {
+      "follower_count": 147750,
+      "total_gmv_30d": 4503,
+      "avg_views_30d": 93573,
+      "engagement_rate": 0.06,
+      "gpm": 50,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6387,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "baby_gear_reviews_amy",
+    "bio": "In-depth baby gear reviews covering strollers, car seats, and nursery essentials. Helping parents buy once, buy right.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Toys & Hobbies"
+    ],
+    "projected_score": 100,
+    "metrics": {
+      "follower_count": 1450572,
+      "total_gmv_30d": 186918,
+      "avg_views_30d": 453434,
+      "engagement_rate": 0.07,
+      "gpm": 41,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8341,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "pregnancy_journey_bex",
+    "bio": "Week-by-week pregnancy updates, bump photos, and honest prenatal care content for expecting mothers everywhere.",
+    "content_style_tags": [
+      "Baby & Maternity"
+    ],
+    "projected_score": 61.01,
+    "metrics": {
+      "follower_count": 1265540,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1280596,
+      "engagement_rate": 0.03,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8914,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "toddler_activities_jen",
+    "bio": "Educational play ideas, sensory activities, and creative projects for toddlers. Making learning fun at home.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Health"
+    ],
+    "projected_score": 90.01,
+    "metrics": {
+      "follower_count": 1573784,
+      "total_gmv_30d": 49720,
+      "avg_views_30d": 1209453,
+      "engagement_rate": 0.03,
+      "gpm": 16,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7683,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "sleep_training_coach_v",
+    "bio": "Certified pediatric sleep consultant sharing methods, schedules, and strategies to help babies sleep through the night.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Health"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1188981,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1205530,
+      "engagement_rate": 0.15,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9419,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "baby_led_weaning_moe",
+    "bio": "Baby-led weaning recipes, finger food ideas, and solid food introduction guides for adventurous tiny eaters.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Health"
+    ],
+    "projected_score": 66.12,
+    "metrics": {
+      "follower_count": 340563,
+      "total_gmv_30d": 3276,
+      "avg_views_30d": 1172433,
+      "engagement_rate": 0.03,
+      "gpm": 34,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7160,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bump_to_baby_style_bri",
+    "bio": "Maternity fashion and postpartum style content. Looking and feeling good through every stage of motherhood.",
+    "content_style_tags": [
+      "Baby & Maternity"
+    ],
+    "projected_score": 82.72,
+    "metrics": {
+      "follower_count": 820658,
+      "total_gmv_30d": 44677,
+      "avg_views_30d": 1433319,
+      "engagement_rate": 0.13,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5275,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "gentle_parenting_sue",
+    "bio": "Gentle parenting philosophy, emotional coaching techniques, and respectful communication strategies for conscious parents.",
+    "content_style_tags": [
+      "Baby & Maternity"
+    ],
+    "projected_score": 89.07,
+    "metrics": {
+      "follower_count": 926719,
+      "total_gmv_30d": 48650,
+      "avg_views_30d": 783647,
+      "engagement_rate": 0.02,
+      "gpm": 31,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7969,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "twin_mom_life_gaby",
+    "bio": "Life with twins documentary content. Double the chaos, double the love, and all the hacks that actually help.",
+    "content_style_tags": [
+      "Baby & Maternity"
+    ],
+    "projected_score": 66.05,
+    "metrics": {
+      "follower_count": 1201090,
+      "total_gmv_30d": 676,
+      "avg_views_30d": 607069,
+      "engagement_rate": 0.01,
+      "gpm": 5,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9197,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "dad_of_three_rob",
+    "bio": "Real dad content on raising three kids under five. Honest, funny, and surprisingly useful parenting tips from a dad.",
+    "content_style_tags": [
+      "Baby & Maternity"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1589612,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 403694,
+      "engagement_rate": 0.02,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5872,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "breastfeeding_support_n",
+    "bio": "Lactation education, breastfeeding tips, and pumping guides for nursing mothers. Community, not judgment.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Health"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1453735,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1090729,
+      "engagement_rate": 0.07,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9183,
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "nursery_design_ella",
+    "bio": "Dreamy nursery design inspiration, furniture picks, and safety tips for creating the perfect baby room.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Toys & Hobbies"
+    ],
+    "projected_score": 67.49,
+    "metrics": {
+      "follower_count": 543351,
+      "total_gmv_30d": 3422,
+      "avg_views_30d": 1042628,
+      "engagement_rate": 0.09,
+      "gpm": 36,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7781,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "working_mom_hacks_ty",
+    "bio": "Productivity systems, childcare advice, and career balance content for working mothers navigating it all.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Health"
+    ],
+    "projected_score": 64.59,
+    "metrics": {
+      "follower_count": 1078340,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1501177,
+      "engagement_rate": 0.13,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6495,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "toddler_tantrums_nat",
+    "bio": "Navigating toddler emotions, tantrums, and developmental milestones with humor and evidence-based parenting tools.",
+    "content_style_tags": [
+      "Baby & Maternity",
+      "Toys & Hobbies"
+    ],
+    "projected_score": 68.66,
+    "metrics": {
+      "follower_count": 1823671,
+      "total_gmv_30d": 2558,
+      "avg_views_30d": 460326,
+      "engagement_rate": 0.14,
+      "gpm": 15,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8068,
+        "age_ranges": [
+          "18-24",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "phone_reviewer_kai",
+    "bio": "In-depth smartphone reviews, camera comparisons, and benchmark tests for flagship and budget Android and iOS devices.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 77.5,
+    "metrics": {
+      "follower_count": 1715870,
+      "total_gmv_30d": 5644,
+      "avg_views_30d": 1461925,
+      "engagement_rate": 0.07,
+      "gpm": 21,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5750,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "apple_insider_cy",
+    "bio": "Apple ecosystem deep dives, iOS tips, and honest opinions on every new Apple product release and software update.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 99.51,
+    "metrics": {
+      "follower_count": 400950,
+      "total_gmv_30d": 130643,
+      "avg_views_30d": 1527348,
+      "engagement_rate": 0.04,
+      "gpm": 36,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5198,
+        "age_ranges": [
+          "18-24",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "android_tips_pro",
+    "bio": "Android customization, hidden features, and system optimization guides for power users on any Android device.",
+    "content_style_tags": [
+      "Phones & Electronics",
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 62.52,
+    "metrics": {
+      "follower_count": 1913093,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1855064,
+      "engagement_rate": 0.13,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6981,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "earbuds_lab_dev",
+    "bio": "Comprehensive wireless earbud and headphone reviews covering sound quality, ANC, and battery life.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 75.59,
+    "metrics": {
+      "follower_count": 1471861,
+      "total_gmv_30d": 11893,
+      "avg_views_30d": 554760,
+      "engagement_rate": 0.06,
+      "gpm": 7,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6569,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "smart_home_build_eli",
+    "bio": "Smart home automation guides using Google Home, Alexa, and HomeKit. Building the connected home step by step.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 63.13,
+    "metrics": {
+      "follower_count": 1344811,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 920869,
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9145,
+        "age_ranges": [
+          "25-34",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tablet_reviews_mara",
+    "bio": "iPad and Android tablet comparisons for students, artists, and professionals. Which tablet is right for your workflow?",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 71.17,
+    "metrics": {
+      "follower_count": 1182188,
+      "total_gmv_30d": 11526,
+      "avg_views_30d": 1230776,
+      "engagement_rate": 0.08,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5645,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "camera_tech_leo",
+    "bio": "Digital camera and mirrorless system reviews, lens guides, and photography gear education for all skill levels.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 75.85,
+    "metrics": {
+      "follower_count": 1175891,
+      "total_gmv_30d": 6254,
+      "avg_views_30d": 1665790,
+      "engagement_rate": 0.11,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6582,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "gaming_phones_rio",
+    "bio": "Mobile gaming hardware, controllers, and gaming phone reviews. Competitive mobile gaming takes the right gear.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 87.03,
+    "metrics": {
+      "follower_count": 886022,
+      "total_gmv_30d": 33706,
+      "avg_views_30d": 493786,
+      "engagement_rate": 0.08,
+      "gpm": 33,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7998,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "repair_tech_tommy",
+    "bio": "DIY phone and laptop repair tutorials. Screen replacements, battery swaps, and fixing devices instead of replacing them.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 83.9,
+    "metrics": {
+      "follower_count": 288797,
+      "total_gmv_30d": 38277,
+      "avg_views_30d": 1846491,
+      "engagement_rate": 0.01,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7424,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "wearable_tech_zoe",
+    "bio": "Smartwatch and fitness tracker reviews with long-term use data. Finding the wearable that actually improves your health.",
+    "content_style_tags": [
+      "Phones & Electronics",
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1505909,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1052276,
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7540,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "budget_phones_sal",
+    "bio": "Hidden gem budget smartphones under two hundred dollars. Premium features without the premium price tags.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 64.45,
+    "metrics": {
+      "follower_count": 772286,
+      "total_gmv_30d": 3094,
+      "avg_views_30d": 1514783,
+      "engagement_rate": 0.09,
+      "gpm": 35,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8830,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "charging_tech_oscar",
+    "bio": "Wireless charging, fast charging standards, and power bank reviews. Never run out of battery again.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 76.35,
+    "metrics": {
+      "follower_count": 1730885,
+      "total_gmv_30d": 13186,
+      "avg_views_30d": 477180,
+      "engagement_rate": 0.02,
+      "gpm": 29,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6867,
+        "age_ranges": [
+          "25-34",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "laptop_reviews_amy",
+    "bio": "Laptop buying guides for students and professionals. Performance, battery, and value analysis across every price tier.",
+    "content_style_tags": [
+      "Phones & Electronics"
+    ],
+    "projected_score": 65.46,
+    "metrics": {
+      "follower_count": 1217014,
+      "total_gmv_30d": 2733,
+      "avg_views_30d": 836189,
+      "engagement_rate": 0.12,
+      "gpm": 38,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8874,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "mountain_biker_ty",
+    "bio": "Technical trail mountain biking content, gear reviews, and scenic descent videos from trails across North America.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 70.54,
+    "metrics": {
+      "follower_count": 584091,
+      "total_gmv_30d": 2766,
+      "avg_views_30d": 1397693,
+      "engagement_rate": 0.11,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7937,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "surf_life_carla",
+    "bio": "Surfing tutorials, wave forecasting tips, and ocean lifestyle content from the West Coast beaches.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 68.11,
+    "metrics": {
+      "follower_count": 840326,
+      "total_gmv_30d": 269,
+      "avg_views_30d": 533574,
+      "engagement_rate": 0.1,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8932,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "crossfit_daily_jake",
+    "bio": "CrossFit programming, movement breakdowns, and competition prep content for athletes at every level.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 62.21,
+    "metrics": {
+      "follower_count": 1625348,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1552446,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5607,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "ski_season_vera",
+    "bio": "Alpine skiing tutorials, resort reviews, and backcountry adventure content for snow-obsessed winter athletes.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 61.38,
+    "metrics": {
+      "follower_count": 162799,
+      "total_gmv_30d": 4813,
+      "avg_views_30d": 1527933,
+      "engagement_rate": 0.11,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8858,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "kayak_adventures_lu",
+    "bio": "Sea kayaking expeditions, whitewater skills, and paddle sports content for water adventure seekers.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 785262,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 791535,
+      "engagement_rate": 0.09,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5796,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "climbing_wall_finn",
+    "bio": "Indoor and outdoor rock climbing technique, training tips, and gear reviews for climbers of all levels.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 67.63,
+    "metrics": {
+      "follower_count": 762960,
+      "total_gmv_30d": 2922,
+      "avg_views_30d": 563808,
+      "engagement_rate": 0.13,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5887,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "marathon_pac_kim",
+    "bio": "Marathon training logs, race-day strategies, and running shoe reviews for long-distance runners of all abilities.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 88.74,
+    "metrics": {
+      "follower_count": 1199146,
+      "total_gmv_30d": 132064,
+      "avg_views_30d": 1441143,
+      "engagement_rate": 0.06,
+      "gpm": 21,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8347,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fishing_tales_bob",
+    "bio": "Freshwater and saltwater fishing tips, tackle reviews, and scenic fishing trip documentation across the country.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 90.79,
+    "metrics": {
+      "follower_count": 1357294,
+      "total_gmv_30d": 102151,
+      "avg_views_30d": 186784,
+      "engagement_rate": 0.05,
+      "gpm": 22,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8466,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tennis_daily_ace",
+    "bio": "Tennis technique breakdowns, drill ideas, and gear recommendations for club players looking to improve their game.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 65.75,
+    "metrics": {
+      "follower_count": 572000,
+      "total_gmv_30d": 4233,
+      "avg_views_30d": 455535,
+      "engagement_rate": 0.03,
+      "gpm": 47,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8046,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "outdoor_survival_rex",
+    "bio": "Wilderness survival skills, bushcraft techniques, and emergency preparedness content for outdoor enthusiasts.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 62.7,
+    "metrics": {
+      "follower_count": 1553891,
+      "total_gmv_30d": 1100,
+      "avg_views_30d": 684283,
+      "engagement_rate": 0.02,
+      "gpm": 29,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6939,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "yoga_outdoors_ann",
+    "bio": "Outdoor yoga sessions in breathtaking locations. Combining movement, nature, and mindfulness for wellbeing.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 66.85,
+    "metrics": {
+      "follower_count": 793599,
+      "total_gmv_30d": 3522,
+      "avg_views_30d": 800717,
+      "engagement_rate": 0.09,
+      "gpm": 39,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5231,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "cycling_commute_jed",
+    "bio": "Urban cycling guides, bike commuting tips, and road cycling content for city riders and recreational cyclists.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 458855,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1560181,
+      "engagement_rate": 0.13,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6029,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "paddleboard_pro_dee",
+    "bio": "Stand-up paddleboarding tutorials, location guides, and SUP fitness workouts for all skill levels.",
+    "content_style_tags": [
+      "Sports & Outdoors"
+    ],
+    "projected_score": 72.43,
+    "metrics": {
+      "follower_count": 840142,
+      "total_gmv_30d": 13297,
+      "avg_views_30d": 961406,
+      "engagement_rate": 0.04,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7309,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "workshop_builds_ed",
+    "bio": "Woodworking projects, power tool reviews, and workshop setup guides for hobbyist craftsmen and DIY enthusiasts.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 61.66,
+    "metrics": {
+      "follower_count": 449619,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1741472,
+      "engagement_rate": 0.12,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8075,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "plumbing_diy_skip",
+    "bio": "Home plumbing repairs and upgrades that homeowners can tackle themselves. Saving thousands on contractor bills.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 96.93,
+    "metrics": {
+      "follower_count": 242361,
+      "total_gmv_30d": 183081,
+      "avg_views_30d": 1869676,
+      "engagement_rate": 0.04,
+      "gpm": 12,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8833,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "electrical_safe_pat",
+    "bio": "Basic home electrical projects, outlet replacement guides, and smart home wiring tutorials done safely and legally.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 80.69,
+    "metrics": {
+      "follower_count": 1254844,
+      "total_gmv_30d": 52281,
+      "avg_views_30d": 1307968,
+      "engagement_rate": 0.11,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8756,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tile_work_pro_sal",
+    "bio": "Tile installation tutorials, grouting techniques, and bathroom and kitchen tile project guides for DIY renovators.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 64.21,
+    "metrics": {
+      "follower_count": 553201,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1705048,
+      "engagement_rate": 0.04,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8254,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "power_tools_sam",
+    "bio": "Professional power tool reviews, blade comparisons, and buying guides for contractors and serious hobbyist builders.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 61.97,
+    "metrics": {
+      "follower_count": 1826541,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1327899,
+      "engagement_rate": 0.05,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6725,
+        "age_ranges": [
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "hand_tool_craft_ben",
+    "bio": "Traditional hand tool woodworking, chisel techniques, and the philosophy of slowing down and working with your hands.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 283222,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 744859,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9186,
+        "age_ranges": [
+          "18-24",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "welding_basics_hugo",
+    "bio": "MIG and TIG welding tutorials for beginners. Metal fabrication projects, safety gear, and technique fundamentals.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 85.88,
+    "metrics": {
+      "follower_count": 158329,
+      "total_gmv_30d": 38986,
+      "avg_views_30d": 1310858,
+      "engagement_rate": 0.14,
+      "gpm": 16,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6018,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "deck_build_jake",
+    "bio": "Deck and outdoor structure builds from planning to final stain. Permits, framing, decking installation, and finishing.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 62.96,
+    "metrics": {
+      "follower_count": 743645,
+      "total_gmv_30d": 1604,
+      "avg_views_30d": 1190771,
+      "engagement_rate": 0.04,
+      "gpm": 18,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5122,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "drywall_tips_ray",
+    "bio": "Drywall installation, taping, mudding, and finishing techniques for flawless walls in any home improvement project.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 62.94,
+    "metrics": {
+      "follower_count": 1880571,
+      "total_gmv_30d": 2265,
+      "avg_views_30d": 1366557,
+      "engagement_rate": 0.11,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6412,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "concrete_work_carl",
+    "bio": "Concrete pouring, stamping, and resurfacing tutorials for patios, walkways, and decorative concrete DIY projects.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 61.23,
+    "metrics": {
+      "follower_count": 798340,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 236450,
+      "engagement_rate": 0.02,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7908,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "garage_org_hal",
+    "bio": "Garage organization systems, wall storage solutions, and workshop layout planning for optimal space utilization.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 75.57,
+    "metrics": {
+      "follower_count": 236829,
+      "total_gmv_30d": 7616,
+      "avg_views_30d": 791397,
+      "engagement_rate": 0.09,
+      "gpm": 13,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5623,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "ladder_safety_tom",
+    "bio": "Ladder safety, scaffolding use, and elevated work practices. Keeping DIY enthusiasts safe while working at height.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 74.41,
+    "metrics": {
+      "follower_count": 180995,
+      "total_gmv_30d": 15126,
+      "avg_views_30d": 1640786,
+      "engagement_rate": 0.04,
+      "gpm": 40,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7596,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fence_build_rex",
+    "bio": "Wood, vinyl, and chain-link fence installation guides. Property boundary projects done right the first time.",
+    "content_style_tags": [
+      "Tools & Hardware"
+    ],
+    "projected_score": 67.96,
+    "metrics": {
+      "follower_count": 407358,
+      "total_gmv_30d": 3853,
+      "avg_views_30d": 144159,
+      "engagement_rate": 0.05,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6578,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "paint_pro_tips_mick",
+    "bio": "Interior and exterior painting techniques, roller and brush tips, and color selection advice for flawless finish results.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Home"
+    ],
+    "projected_score": 87.38,
+    "metrics": {
+      "follower_count": 1142592,
+      "total_gmv_30d": 53750,
+      "avg_views_30d": 564078,
+      "engagement_rate": 0.1,
+      "gpm": 23,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8177,
+        "age_ranges": [
+          "35-44",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "dog_trainer_liz",
+    "bio": "Positive reinforcement dog training methods, behavior problem solutions, and fun trick tutorials for happy dogs.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 60.22,
+    "metrics": {
+      "follower_count": 1691508,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1723830,
+      "engagement_rate": 0.07,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7505,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "cat_parent_tips_jo",
+    "bio": "Cat behavior, enrichment ideas, and care guides. Understanding your cat and building a stronger human-feline bond.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 66.7,
+    "metrics": {
+      "follower_count": 1149338,
+      "total_gmv_30d": 475,
+      "avg_views_30d": 1280457,
+      "engagement_rate": 0.02,
+      "gpm": 25,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7152,
+        "age_ranges": [
+          "18-24",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "aquarium_builds_fin",
+    "bio": "Planted aquarium setup, fish care guides, and aquascape design for freshwater and saltwater tank enthusiasts.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 76.19,
+    "metrics": {
+      "follower_count": 1915764,
+      "total_gmv_30d": 18204,
+      "avg_views_30d": 1150880,
+      "engagement_rate": 0.12,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6420,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "hamster_world_pip",
+    "bio": "Small pet care content focused on hamsters, gerbils, and guinea pigs. Cage setups, enrichment, and nutrition guides.",
+    "content_style_tags": [
+      "Pet",
+      "Home"
+    ],
+    "projected_score": 61.31,
+    "metrics": {
+      "follower_count": 710351,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1203596,
+      "engagement_rate": 0.06,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6768,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "dog_adventures_rex",
+    "bio": "Documenting outdoor adventures with my golden retriever. Hiking, swimming, and off-leash parks across the region.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 94.38,
+    "metrics": {
+      "follower_count": 5899,
+      "total_gmv_30d": 178905,
+      "avg_views_30d": 523334,
+      "engagement_rate": 0.02,
+      "gpm": 31,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8970,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "reptile_keeper_gus",
+    "bio": "Reptile husbandry education for snakes, lizards, and turtles. Enclosure builds, feeding guides, and species profiles.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 66.53,
+    "metrics": {
+      "follower_count": 965083,
+      "total_gmv_30d": 1937,
+      "avg_views_30d": 188470,
+      "engagement_rate": 0.12,
+      "gpm": 48,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6494,
+        "age_ranges": [
+          "25-34",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "vet_tech_explains_jo",
+    "bio": "Veterinary technician sharing pet health education, medication guides, and preventive care content for pet owners.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 73.66,
+    "metrics": {
+      "follower_count": 1632617,
+      "total_gmv_30d": 5644,
+      "avg_views_30d": 1613367,
+      "engagement_rate": 0.14,
+      "gpm": 17,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7670,
+        "age_ranges": [
+          "18-24",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "parrot_talk_mia",
+    "bio": "Parrot care, trick training, and flock management content for bird owners of parakeets, cockatiels, and parrots.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 81.1,
+    "metrics": {
+      "follower_count": 826409,
+      "total_gmv_30d": 15829,
+      "avg_views_30d": 1797424,
+      "engagement_rate": 0.08,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5612,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "foster_kittens_sue",
+    "bio": "Bottle feeding, socialization, and fostering education for rescued kittens. Adoption advocacy through heartwarming content.",
+    "content_style_tags": [
+      "Pet",
+      "Health"
+    ],
+    "projected_score": 60.25,
+    "metrics": {
+      "follower_count": 1676855,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 729749,
+      "engagement_rate": 0.01,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7796,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "raw_feeding_pete",
+    "bio": "Raw diet education for dogs and cats. Prey model feeding, supplements, and the science behind species-appropriate nutrition.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 63.36,
+    "metrics": {
+      "follower_count": 154652,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1878134,
+      "engagement_rate": 0.04,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5753,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "dog_grooming_den",
+    "bio": "At-home dog grooming tutorials, tool reviews, and breed-specific grooming guides for budget-savvy pet parents.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 66.14,
+    "metrics": {
+      "follower_count": 1483421,
+      "total_gmv_30d": 3342,
+      "avg_views_30d": 937055,
+      "engagement_rate": 0.12,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5763,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "senior_pets_care_mo",
+    "bio": "Caring for aging pets with mobility, cognitive, and dietary challenges. Compassionate content for those with senior animals.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 81.21,
+    "metrics": {
+      "follower_count": 103479,
+      "total_gmv_30d": 14461,
+      "avg_views_30d": 1232539,
+      "engagement_rate": 0.04,
+      "gpm": 23,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8544,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "exotic_pets_world_cy",
+    "bio": "Exotic pet education covering ferrets, hedgehogs, chinchillas, and sugar gliders. Responsible exotic pet ownership content.",
+    "content_style_tags": [
+      "Pet",
+      "Health"
+    ],
+    "projected_score": 86.85,
+    "metrics": {
+      "follower_count": 271764,
+      "total_gmv_30d": 58248,
+      "avg_views_30d": 950084,
+      "engagement_rate": 0.13,
+      "gpm": 12,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8456,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "shelter_stories_ann",
+    "bio": "Animal shelter advocacy, adoption success stories, and behind-the-scenes content from a shelter volunteer photographer.",
+    "content_style_tags": [
+      "Pet"
+    ],
+    "projected_score": 62.8,
+    "metrics": {
+      "follower_count": 262355,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1833437,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9091,
+        "age_ranges": [
+          "25-34",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "booktok_with_beth",
+    "bio": "BookTok creator sharing literary fiction, thriller, and romance recommendations. Monthly TBR lists and author spotlights.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 78.61,
+    "metrics": {
+      "follower_count": 209319,
+      "total_gmv_30d": 15925,
+      "avg_views_30d": 343463,
+      "engagement_rate": 0.09,
+      "gpm": 27,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9024,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fantasy_reads_orm",
+    "bio": "Epic fantasy and dark fantasy book reviews. From classic Tolkien to modern Brandon Sanderson and everything between.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 62.16,
+    "metrics": {
+      "follower_count": 1197199,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1993895,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8978,
+        "age_ranges": [
+          "18-24",
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "nonfiction_nerd_ash",
+    "bio": "Nonfiction book summaries and deep dives covering history, science, psychology, and self-improvement titles.",
+    "content_style_tags": [
+      "Books",
+      "Health"
+    ],
+    "projected_score": 62.5,
+    "metrics": {
+      "follower_count": 1574414,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1635738,
+      "engagement_rate": 0.02,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8071,
+        "age_ranges": [
+          "18-24",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "romance_reader_deb",
+    "bio": "Romance novel recommendations across every subgenre. Enemies-to-lovers, small town, historical, and contemporary reads.",
+    "content_style_tags": [
+      "Books",
+      "Health"
+    ],
+    "projected_score": 79.54,
+    "metrics": {
+      "follower_count": 1865469,
+      "total_gmv_30d": 16501,
+      "avg_views_30d": 202917,
+      "engagement_rate": 0.1,
+      "gpm": 4,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6903,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "sci_fi_shelf_ian",
+    "bio": "Science fiction book reviews and author interviews. Hard sci-fi, space opera, and speculative fiction deep dives.",
+    "content_style_tags": [
+      "Books",
+      "Health"
+    ],
+    "projected_score": 68.87,
+    "metrics": {
+      "follower_count": 1400251,
+      "total_gmv_30d": 2443,
+      "avg_views_30d": 742560,
+      "engagement_rate": 0.06,
+      "gpm": 15,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8874,
+        "age_ranges": [
+          "25-34",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "book_club_host_nan",
+    "bio": "Running an online book club with monthly picks, discussion questions, and author events for voracious readers.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1533886,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1844191,
+      "engagement_rate": 0.1,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5779,
+        "age_ranges": [
+          "25-34",
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "young_adult_reads_jo",
+    "bio": "YA fiction spotlight with honest reviews for teens and adults who never grew out of young adult literature.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1694563,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 613633,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8422,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "mystery_addict_cal",
+    "bio": "Crime fiction and mystery novel reviews. Locked-room puzzles, psychological thrillers, and cozy mystery recommendations.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 80.05,
+    "metrics": {
+      "follower_count": 1069820,
+      "total_gmv_30d": 26962,
+      "avg_views_30d": 725816,
+      "engagement_rate": 0.14,
+      "gpm": 19,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6423,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "annotated_pages_io",
+    "bio": "Sharing beautifully annotated book pages, reading journals, and the art of active reading and marginalia.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 63.72,
+    "metrics": {
+      "follower_count": 1576287,
+      "total_gmv_30d": 2067,
+      "avg_views_30d": 1727979,
+      "engagement_rate": 0.06,
+      "gpm": 11,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8112,
+        "age_ranges": [
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "indie_authors_hub_ky",
+    "bio": "Amplifying independent and self-published authors across every genre. Discovering hidden gems before they go mainstream.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 63.67,
+    "metrics": {
+      "follower_count": 1133638,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 574775,
+      "engagement_rate": 0.05,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 9106,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "classic_lit_vera",
+    "bio": "Classic literature analysis and accessible breakdowns. Making Dostoevsky, Austen, and Melville approachable for everyone.",
+    "content_style_tags": [
+      "Books",
+      "Health"
+    ],
+    "projected_score": 81.47,
+    "metrics": {
+      "follower_count": 529087,
+      "total_gmv_30d": 14082,
+      "avg_views_30d": 18573,
+      "engagement_rate": 0.03,
+      "gpm": 18,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 5527,
+        "age_ranges": [
+          "18-24",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "audio_book_rev_tom",
+    "bio": "Audiobook reviews covering narrator performance, production quality, and recommendations for commuters and busy readers.",
+    "content_style_tags": [
+      "Books",
+      "Health"
+    ],
+    "projected_score": 66.53,
+    "metrics": {
+      "follower_count": 1925774,
+      "total_gmv_30d": 1323,
+      "avg_views_30d": 805532,
+      "engagement_rate": 0.06,
+      "gpm": 23,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8304,
+        "age_ranges": [
+          "35-44",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "bookshelf_tours_gem",
+    "bio": "Shelfie tours, book organization systems, and home library design inspiration for true bibliophiles.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1321879,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 590418,
+      "engagement_rate": 0.12,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7270,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "literary_travel_pam",
+    "bio": "Combining literary pilgrimage travel with book recommendations. Visiting the places where famous novels were set.",
+    "content_style_tags": [
+      "Books"
+    ],
+    "projected_score": 60.35,
+    "metrics": {
+      "follower_count": 1899885,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 455278,
+      "engagement_rate": 0.15,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6747,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "desk_setup_reviews_jo",
+    "bio": "Premium desk setups, monitor stands, and peripheral reviews for remote workers who take their workstation seriously.",
+    "content_style_tags": [
+      "Computer & Office Equipment",
+      "Phones & Electronics"
+    ],
+    "projected_score": 67.12,
+    "metrics": {
+      "follower_count": 207071,
+      "total_gmv_30d": 4831,
+      "avg_views_30d": 1419046,
+      "engagement_rate": 0.04,
+      "gpm": 4,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 8093,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "mechanical_keys_jax",
+    "bio": "Mechanical keyboard reviews, switch comparisons, and custom keyboard builds for the typist and gaming community.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 85.66,
+    "metrics": {
+      "follower_count": 1749883,
+      "total_gmv_30d": 25160,
+      "avg_views_30d": 1083832,
+      "engagement_rate": 0.01,
+      "gpm": 42,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6358,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "monitor_lab_fitz",
+    "bio": "Monitor reviews for creative professionals and gamers. Color accuracy, response time, and panel technology explained.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 63.82,
+    "metrics": {
+      "follower_count": 1805037,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 487018,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5574,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "cloud_storage_guide_al",
+    "bio": "Cloud storage comparisons, backup strategies, and workflow optimization for individuals and small business teams.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 61.87,
+    "metrics": {
+      "follower_count": 515949,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1918707,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6011,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "coding_setup_cait",
+    "bio": "Developer environment setup, IDE configurations, and productivity tools for software engineers working from home.",
+    "content_style_tags": [
+      "Computer & Office Equipment",
+      "Phones & Electronics"
+    ],
+    "projected_score": 60.77,
+    "metrics": {
+      "follower_count": 1175852,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 282361,
+      "engagement_rate": 0.07,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7253,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "3d_print_studio_jay",
+    "bio": "3D printing guides, filament reviews, and model design content using FDM and resin printers for hobbyists and pros.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 63.64,
+    "metrics": {
+      "follower_count": 89843,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1744010,
+      "engagement_rate": 0.13,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7720,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "office_chair_rex_jr",
+    "bio": "Ergonomic office chair reviews and posture correction guides. Investing in your back for long work-from-home sessions.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 76.04,
+    "metrics": {
+      "follower_count": 431025,
+      "total_gmv_30d": 5524,
+      "avg_views_30d": 1388869,
+      "engagement_rate": 0.1,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5700,
+        "age_ranges": [
+          "18-24",
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "network_nerd_evan",
+    "bio": "Home networking setup, router reviews, Wi-Fi optimization, and mesh network guides for power users.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 71.2,
+    "metrics": {
+      "follower_count": 226586,
+      "total_gmv_30d": 18744,
+      "avg_views_30d": 1079591,
+      "engagement_rate": 0.06,
+      "gpm": 34,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 7987,
+        "age_ranges": [
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "streaming_setup_ada",
+    "bio": "Streaming gear reviews, OBS configuration, and content creation equipment guides for aspiring livestreamers.",
+    "content_style_tags": [
+      "Computer & Office Equipment",
+      "Phones & Electronics"
+    ],
+    "projected_score": 77.1,
+    "metrics": {
+      "follower_count": 105701,
+      "total_gmv_30d": 19756,
+      "avg_views_30d": 1621318,
+      "engagement_rate": 0.12,
+      "gpm": 31,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6546,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "tablet_art_studio_ri",
+    "bio": "Drawing tablet reviews and digital art workflow tutorials for illustrators and graphic designers.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 70.71,
+    "metrics": {
+      "follower_count": 682318,
+      "total_gmv_30d": 3105,
+      "avg_views_30d": 1599871,
+      "engagement_rate": 0.15,
+      "gpm": 47,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7430,
+        "age_ranges": [
+          "45-54",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "nas_builds_otto",
+    "bio": "Network-attached storage builds, media server setups, and home data management for self-hosted storage enthusiasts.",
+    "content_style_tags": [
+      "Computer & Office Equipment",
+      "Phones & Electronics"
+    ],
+    "projected_score": 63.86,
+    "metrics": {
+      "follower_count": 20689,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1397433,
+      "engagement_rate": 0.08,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7658,
+        "age_ranges": [
+          "25-34",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "budget_pc_builds_max",
+    "bio": "Budget gaming and productivity PC builds. Getting the best performance per dollar in every price bracket.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 64.84,
+    "metrics": {
+      "follower_count": 1548552,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 10253,
+      "engagement_rate": 0.11,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5165,
+        "age_ranges": [
+          "35-44",
+          "55+"
+        ]
+      }
+    }
+  },
+  {
+    "username": "cable_management_al",
+    "bio": "Clean desk cable management solutions, cable routing guides, and workspace aesthetics for the organized professional.",
+    "content_style_tags": [
+      "Computer & Office Equipment"
+    ],
+    "projected_score": 79.12,
+    "metrics": {
+      "follower_count": 655652,
+      "total_gmv_30d": 7010,
+      "avg_views_30d": 596097,
+      "engagement_rate": 0.11,
+      "gpm": 2,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8295,
+        "age_ranges": [
+          "35-44",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "webcam_reviews_sky",
+    "bio": "Webcam and video conferencing gear reviews for remote workers, streamers, and anyone who needs to look good on camera.",
+    "content_style_tags": [
+      "Computer & Office Equipment",
+      "Phones & Electronics"
+    ],
+    "projected_score": 76.53,
+    "metrics": {
+      "follower_count": 1293171,
+      "total_gmv_30d": 17792,
+      "avg_views_30d": 719852,
+      "engagement_rate": 0.08,
+      "gpm": 39,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5908,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "smoothie_bar_lin",
+    "bio": "Smoothie recipes, juice bars, and functional beverage reviews. Drinking your way to better health one blend at a time.",
+    "content_style_tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "projected_score": 78.7,
+    "metrics": {
+      "follower_count": 1303572,
+      "total_gmv_30d": 16081,
+      "avg_views_30d": 1407760,
+      "engagement_rate": 0.14,
+      "gpm": 26,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8774,
+        "age_ranges": [
+          "18-24",
+          "25-34"
+        ]
+      }
+    }
+  },
+  {
+    "username": "stretch_routine_kim",
+    "bio": "Flexibility and mobility routines for desk workers and athletes. Daily stretching guides for pain-free movement.",
+    "content_style_tags": [
+      "Health",
+      "Sports & Outdoors"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 1721761,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 307775,
+      "engagement_rate": 0.12,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 9136,
+        "age_ranges": [
+          "18-24",
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "home_gym_builds",
+    "bio": "Budget home gym setup guides, equipment reviews, and space-saving fitness solutions for apartment workouts.",
+    "content_style_tags": [
+      "Sports & Outdoors",
+      "Health"
+    ],
+    "projected_score": 92.59,
+    "metrics": {
+      "follower_count": 1270148,
+      "total_gmv_30d": 122934,
+      "avg_views_30d": 1913655,
+      "engagement_rate": 0.12,
+      "gpm": 43,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 6810,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "fashion_finds_gio",
+    "bio": "Global fashion inspiration and trend forecasting. Curating looks from street style scenes around the world.",
+    "content_style_tags": [
+      "Fashion"
+    ],
+    "projected_score": 60,
+    "metrics": {
+      "follower_count": 637360,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 1199639,
+      "engagement_rate": 0.1,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 8719,
+        "age_ranges": [
+          "35-44"
+        ]
+      }
+    }
+  },
+  {
+    "username": "retro_tech_hunter",
+    "bio": "Vintage electronics restoration, retro gaming hardware, and old-school computer finds. Tech nostalgia done right.",
+    "content_style_tags": [
+      "Computer & Office Equipment",
+      "Phones & Electronics"
+    ],
+    "projected_score": 66.8,
+    "metrics": {
+      "follower_count": 1022878,
+      "total_gmv_30d": 4480,
+      "avg_views_30d": 637029,
+      "engagement_rate": 0.04,
+      "gpm": 1,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 5945,
+        "age_ranges": [
+          "18-24"
+        ]
+      }
+    }
+  },
+  {
+    "username": "outdoor_kitchen_rex",
+    "bio": "Outdoor kitchen builds, grill islands, and backyard cooking space design for the serious entertaining enthusiast.",
+    "content_style_tags": [
+      "Tools & Hardware",
+      "Food & Beverage"
+    ],
+    "projected_score": 60.4,
+    "metrics": {
+      "follower_count": 1645965,
+      "total_gmv_30d": 0,
+      "avg_views_30d": 315480,
+      "engagement_rate": 0.14,
+      "gpm": 0,
+      "demographics": {
+        "major_gender": "MALE",
+        "gender_pct": 7313,
+        "age_ranges": [
+          "25-34",
+          "45-54"
+        ]
+      }
+    }
+  },
+  {
+    "username": "kids_toy_reviews",
+    "bio": "Honest toy reviews from a parent of four. Age-appropriate picks, educational value, and durability testing.",
+    "content_style_tags": [
+      "Toys & Hobbies",
+      "Baby & Maternity"
+    ],
+    "projected_score": 99.57,
+    "metrics": {
+      "follower_count": 1727780,
+      "total_gmv_30d": 115856,
+      "avg_views_30d": 745591,
+      "engagement_rate": 0.14,
+      "gpm": 42,
+      "demographics": {
+        "major_gender": "FEMALE",
+        "gender_pct": 6846,
+        "age_ranges": [
+          "45-54"
+        ]
+      }
+    }
+  }
+]
